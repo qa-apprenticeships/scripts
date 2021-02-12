@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 if type apt > /dev/null; then
     pkg_mgr=apt
     java="openjdk-8-jre"
